@@ -1,0 +1,14 @@
+.divMain
+{
+    margin: 150px;
+    background-color: darkcyan;
+    border: 2px solid blueviolet;
+}
+.txt
+{
+    width: 80%;
+    height: 35px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top:20px;
+}
